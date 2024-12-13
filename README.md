@@ -7,3 +7,4 @@ This is the main repository for all of the projects in the course.
 |  #  | Project                                                                                          | Live Demo                                                                    |
 | :-: | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
 | 00  | [Project Structure](https://github.com/dvsilva/50projects50days/tree/master/_project_structure_) | [Live Demo](https://dvsilva.github.io/50projects50days/_project_structure_/) |
+| 01  | [Expanding Cards](https://github.com/dvsilva/50projects50days/tree/master/01_expanding-cards)    | [Live Demo](https://dvsilva.github.io/50projects50days/01_expanding-cards/)  |
