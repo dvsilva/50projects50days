@@ -11,3 +11,4 @@ This is the main repository for all of the projects in the course.
 | 02  | [Progress Steps](https://github.com/dvsilva/50projects50days/tree/master/02_progress_steps)             | [Live Demo](https://dvsilva.github.io/50projects50days/02_progress_steps/)       |
 | 03  | [Rotating Navigation](https://github.com/dvsilva/50projects50days/tree/master/03_rotating_navigation)   | [Live Demo](https://dvsilva.github.io/50projects50days/03_rotating_navigation/)  |
 | 04  | [Hidden Search Widget](https://github.com/dvsilva/50projects50days/tree/master/04_hidden_search_widget) | [Live Demo](https://dvsilva.github.io/50projects50days/04_hidden_search_widget/) |
+| 05  | [Blurry Loading](https://github.com/dvsilva/50projects50days/tree/master/05_blurry_loading)             | [Live Demo](https://dvsilva.github.io/50projects50days/05_blurry_loading/)       |
