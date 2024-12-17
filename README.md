@@ -14,3 +14,4 @@ This is the main repository for all of the projects in the course.
 | 05  | [Blurry Loading](https://github.com/dvsilva/50projects50days/tree/master/05_blurry_loading)             | [Live Demo](https://dvsilva.github.io/50projects50days/05_blurry_loading/)       |
 | 06  | [Scroll Animation](https://github.com/dvsilva/50projects50days/tree/master/06_scroll_animation)         | [Live Demo](https://dvsilva.github.io/50projects50days/06_scroll_animation/)     |
 | 07  | [Split Landing Page](https://github.com/dvsilva/50projects50days/tree/master/07_split_langing_page)     | [Live Demo](https://dvsilva.github.io/50projects50days/07_split_langing_page/)   |
+| 08  | [Form Wave Animation](https://github.com/dvsilva/50projects50days/tree/master/08_form_wave_animation)   | [Live Demo](https://dvsilva.github.io/50projects50days/08_form_wave_animation/)  |
