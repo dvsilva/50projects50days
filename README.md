@@ -15,3 +15,4 @@ This is the main repository for all of the projects in the course.
 | 06  | [Scroll Animation](https://github.com/dvsilva/50projects50days/tree/master/06_scroll_animation)         | [Live Demo](https://dvsilva.github.io/50projects50days/06_scroll_animation/)     |
 | 07  | [Split Landing Page](https://github.com/dvsilva/50projects50days/tree/master/07_split_langing_page)     | [Live Demo](https://dvsilva.github.io/50projects50days/07_split_langing_page/)   |
 | 08  | [Form Wave Animation](https://github.com/dvsilva/50projects50days/tree/master/08_form_wave_animation)   | [Live Demo](https://dvsilva.github.io/50projects50days/08_form_wave_animation/)  |
+| 09  | [Sound Board](https://github.com/dvsilva/50projects50days/tree/master/09_sound_board)                   | [Live Demo](https://dvsilva.github.io/50projects50days/09_sound_board/)          |
