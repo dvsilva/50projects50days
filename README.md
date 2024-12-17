@@ -13,3 +13,4 @@ This is the main repository for all of the projects in the course.
 | 04  | [Hidden Search Widget](https://github.com/dvsilva/50projects50days/tree/master/04_hidden_search_widget) | [Live Demo](https://dvsilva.github.io/50projects50days/04_hidden_search_widget/) |
 | 05  | [Blurry Loading](https://github.com/dvsilva/50projects50days/tree/master/05_blurry_loading)             | [Live Demo](https://dvsilva.github.io/50projects50days/05_blurry_loading/)       |
 | 06  | [Scroll Animation](https://github.com/dvsilva/50projects50days/tree/master/06_scroll_animation)         | [Live Demo](https://dvsilva.github.io/50projects50days/06_scroll_animation/)     |
+| 07  | [Split Landing Page](https://github.com/dvsilva/50projects50days/tree/master/07_split_langing_page)     | [Live Demo](https://dvsilva.github.io/50projects50days/07_split_langing_page/)   |
