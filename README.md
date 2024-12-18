@@ -17,3 +17,4 @@ This is the main repository for all of the projects in the course.
 | 08  | [Form Wave Animation](https://github.com/dvsilva/50projects50days/tree/master/08_form_wave_animation)   | [Live Demo](https://dvsilva.github.io/50projects50days/08_form_wave_animation/)  |
 | 09  | [Sound Board](https://github.com/dvsilva/50projects50days/tree/master/09_sound_board)                   | [Live Demo](https://dvsilva.github.io/50projects50days/09_sound_board/)          |
 | 10  | [Dad Jokes](https://github.com/dvsilva/50projects50days/tree/master/10_dad_jokes)                       | [Live Demo](https://dvsilva.github.io/50projects50days/10_dad_jokes/)            |
+| 11  | [Event Key Codes](https://github.com/dvsilva/50projects50days/tree/master/11_event_key_codes)           | [Live Demo](https://dvsilva.github.io/50projects50days/11_event_key_codes/)      |
