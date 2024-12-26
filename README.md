@@ -21,3 +21,4 @@ This is the main repository for all of the projects in the course.
 | 12  | [FAQ Collapse](https://github.com/dvsilva/50projects50days/tree/master/12_faq_collapse)                 | [Live Demo](https://dvsilva.github.io/50projects50days/12_faq_collapse/)         |
 | 13  | [Random Choice Picker](https://github.com/dvsilva/50projects50days/tree/master/13_random_choice_picker) | [Live Demo](https://dvsilva.github.io/50projects50days/13_random_choice_picker/) |
 | 14  | [Animated Navigation](https://github.com/dvsilva/50projects50days/tree/master/14_animated_navigation)  | [Live Demo](https://dvsilva.github.io/50projects50days/14_animated_navigation/)  |
+| 15  | [Incrementing Counter](https://github.com/dvsilva/50projects50days/tree/master/15_incrementing_counter)  | [Live Demo](https://dvsilva.github.io/50projects50days/15_incrementing_counter/)  |
