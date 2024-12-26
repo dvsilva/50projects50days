@@ -24,3 +24,4 @@ This is the main repository for all of the projects in the course.
 | 15  | [Incrementing Counter](https://github.com/dvsilva/50projects50days/tree/master/15_incrementing_counter) | [Live Demo](https://dvsilva.github.io/50projects50days/15_incrementing_counter/) |
 | 16  | [Drink Water](https://github.com/dvsilva/50projects50days/tree/master/16_drink_water)                   | [Live Demo](https://dvsilva.github.io/50projects50days/16_drink_water/)          |
 | 17  | [Movie App](https://github.com/dvsilva/50projects50days/tree/master/17_movie_app)                       | [Live Demo](https://dvsilva.github.io/50projects50days/17_movie_app/)            |
+| 18  | [Background Slider](https://github.com/dvsilva/50projects50days/tree/master/18_background_slider)       | [Live Demo](https://dvsilva.github.io/50projects50days/18_background_slider/)    |
